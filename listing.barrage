@@ -1,0 +1,37 @@
+# quantum-os
+
+> HTML shelf named quantum-os. Separate from Pieface.
+
+## Purpose
+Give a plain-language door to fitzyracing1/quantum-os.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader to Pieface if they want that OS shelf.
+
+## Key ideas
+- quantum-os (the named shelf)
+- HTML source
+
+## The actual code
+```
+# source: fitzyracing1/quantum-os
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/quantum-os”
+
+## Decisions the program makes
+- If a reader wants Pie Face → Pieface
+- If a reader wants this shelf → stay on the source
+
+## What a person would notice
+A named wrap on a quantum-os door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
